@@ -16,7 +16,8 @@ Fork this repository.
 
 Load the design.svg into your favorite CAD/CAM software (Fusion 360, Rhino, Illustrator, Inkscape).
 
-Create your 3D carves, modified pickguards, or routing variants.
+Create your 3D carves, modified pickguards, or routing variants. 
+(Please note that the nc file is a template edited for TTC450 CNC machine and could need some variation)
 
 Submit a Pull Request or open an Issue with your render/ideas!
 
@@ -28,7 +29,7 @@ Facebook / Socials: facebook/SacrileGiumGuitars
 GitHub: Open a PR / Discussion thread with photos of your build! 
 Welcome to the **Sacrilegium Guitar Project (TT7)**! 
 
-This is an open-source, community-driven electric guitar body design[cite: 1, 2]. The goal of this project is to blend an aggressive, ergonomic double-cut body silhouette with the lightweight balance of a headless guitar—completely eliminating the classic *neck dive*.
+This is an open-source, community-driven electric guitar body design. The goal of this project is to blend an aggressive, ergonomic double-cut body silhouette with the lightweight balance of a headless guitar—completely eliminating the classic *neck dive*.
 
 > **📜 License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 > Free for personal, educational, and non-commercial DIY projects. Feel free to modify, fork, and cut your own!
