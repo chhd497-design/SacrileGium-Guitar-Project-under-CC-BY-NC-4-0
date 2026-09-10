@@ -34,7 +34,7 @@ This is an open-source, community-driven electric guitar body design. The goal o
 > **📜 License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 > Free for personal, educational, and non-commercial DIY projects. Feel free to modify, fork, and cut your own!
 
----
+## Credits: Thanks to Hans @hanshuybrechts for the support!
 
 ## 🛠️ CNC & Manufacturing Specs (Template / Dima)
 
